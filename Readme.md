@@ -9,12 +9,15 @@ This requires the gscam package for ROS. The current install process is tested a
 1. Make sure you have installed ROS and all library dependencies.
 
 2. Clone this repository to your catkin workspace:
+
   `git clone https://github.com/udel-robotics/gscam_launch.git gscam_launch`
 
 3. Install needed dependencies for the gscam library:
+
   `apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev`
 
 4. Clone the gscam library:
+
     `git clone https://github.com/udel-robotics/gscam.git gscam`
 
 5. Build your workspace with `catkin_make`
