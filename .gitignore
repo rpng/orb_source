@@ -1,4 +1,9 @@
 # Ignore external libraries
 /gscam/*
+!/gscam/.gitkeep
+
 /openni2_camera/*
+!/openni2_camera/.gitkeep
+
 /openni2_launch/*
+!/openni2_launch/.gitkeep
