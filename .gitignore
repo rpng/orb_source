@@ -1,4 +1,4 @@
 # Ignore external libraries
-./gscam/*
-./openni2_camera/*
-./opennni2_launch/*
+/gscam/*
+/openni2_camera/*
+/openni2_launch/*
