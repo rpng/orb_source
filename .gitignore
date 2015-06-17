@@ -7,3 +7,6 @@
 
 /openni2_launch/*
 !/openni2_launch/.gitkeep
+
+/pointgrey_camera_driver/*
+!/pointgrey_camera_driver/.gitkeep
