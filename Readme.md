@@ -19,7 +19,8 @@ This requires the gscam and openni2 package for ROS. The current install process
 
 3. Install needed dependencies for the gscam library:
 
-  `apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev`
+  `sudo apt-get install libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev`
+  `sudo apt-get install libopenni2-dev`
 
 4. Install needed dependencies for the point grey library:
 
