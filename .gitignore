@@ -1,12 +1,12 @@
 # Ignore external libraries
-/gscam/*
-!/gscam/.gitkeep
+# /gscam/*
+# !/gscam/.gitkeep
 
-/openni2_camera/*
-!/openni2_camera/.gitkeep
+# /openni2_camera/*
+# !/openni2_camera/.gitkeep
 
-/openni2_launch/*
-!/openni2_launch/.gitkeep
+# /openni2_launch/*
+# !/openni2_launch/.gitkeep
 
-/pointgrey_camera_driver/*
-!/pointgrey_camera_driver/.gitkeep
+# /pointgrey_camera_driver/*
+# !/pointgrey_camera_driver/.gitkeep
