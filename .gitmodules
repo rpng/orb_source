@@ -1,0 +1,12 @@
+[submodule "gscam"]
+	path = gscam
+	url = https://github.com/udrg/gscam
+[submodule "openni2_camera"]
+	path = openni2_camera
+	url = https://github.com/udrg/openni2_camera
+[submodule "openni2_launch"]
+	path = openni2_launch
+	url = https://github.com/udrg/openni2_launch
+[submodule "pointgrey_camera_driver"]
+	path = pointgrey_camera_driver
+	url = https://github.com/udrg/pointgrey_camera_driver
